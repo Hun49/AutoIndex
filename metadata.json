@@ -1,0 +1,6 @@
+{
+  "name": "AutoIndex — Multi-Source Vehicle Listing Aggregator",
+  "description": "Minimalist, accessible vehicle listing aggregator and real-time web scraper with machine learning similarity recommendations across automotive marketplaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
